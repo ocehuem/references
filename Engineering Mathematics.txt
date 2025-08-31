@@ -1,0 +1,101 @@
+Engineering Mathematics
+• Logarithms
+• Permutation and Combinations
+• Probability
+
+a. Basic Programming
+• Data Types
+• Iteration, Recursion, Decision
+• Procedure, functions and scope
+b. Data Structures
+• Arrays, Linked Lists, Trees, Graphs
+• Stacks, Queues
+• Hash Tables
+• Heaps
+c. OOPs
+• Polymorphism
+• Abstraction
+• Encapsulation
+d. Miscellaneous
+• Searching and Sorting
+• Complexity Theory
+e. Data Science
+f. AI/ML
+
+
+5. DEBUGGING
+In this module, the candidate has to fix logical/syntax error of the code or complete the given code
+by reusing existing functions.
+Detailed Syllabus:
+• Basic programming
+• Control Structures
+• conditional statements
+• Linear data structures
+• Advanced data structures
+• Sorting and searching algorithms
+
+Question Type Description
+Logical The candidate is required to fix all logical errors in the given code. This
+checks the various logical concepts like conditions, looping etc
+Compilation Candidate needs to correct the syntax of the given code without changing
+its logic. This checks the candidate basic knowledge of syntax and
+language specific concepts.
+
+Code reuse Candidate needs to complete the given code by reusing existing functions.
+This is a bit tougher than the logical and compilation-based questions. The
+candidate is required to
+
+6. Programming Skill
+This section is to evaluate programming skills in a simulated environment. The assessment allow
+evaluation of actual programming skills of a candidate, giving the candidate an opportunity to write the
+program in an editor, compile and run test cases, all in the assessment environment itself. The compiler
+should support multiple programming languages such as C, C++, Java, Python etc.
+Some of the unique features include:
+• With a variety of basic, advanced and edge test cases designed for a problem, the code is
+checked thoroughly for correctness and completeness.
+• It is capable of evaluating the time complexity or simply the efficiency of the code.
+• The code is scored on quality of the code based on industry defined best practice.
+• A detailed report with objective and subjective evaluation of the code.
+Data Structure Concepts
+
+Array and Matrices
+
+1D array
+Array Rotations
+Arrangement and rearrangement of elements of array
+Properties of matrices
+Inverting matrices
+Transpose of the matrix
+
+Linked list
+
+Basic operations on linked list
+Circular linked list
+
+String processing and
+manipulation
+
+Basic string operations
+Pattern searching
+
+Stack/Queue
+
+Basic stack operations
+Basic queue operations
+
+Sorting and searching
+
+linear and binary search
+various sorting concepts
+
+Advanced Design and Analysis Techniques
+Greedy Algorithms
+
+activity-selection problem
+fractional knapsack
+
+Minimum Spanning Trees
+
+Kruskal
+Prim
+

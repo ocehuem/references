@@ -1,0 +1,5 @@
+dive into python3:Mark Pilgrim
+https://diveintopython3.net/index.html
+
+Think Python Allen B.Downey
+https://greenteapress.com/thinkpython2/html/index.html

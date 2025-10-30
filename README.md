@@ -6,3 +6,5 @@ https://www.geeksforgeeks.org/interview-experiences/dassault-systemes-on-campus-
 
 For best Resume
 https://docs.google.com/document/d/1NyBW7UxkVDvqnaNMWgudNe5ttG4Bkr8W/edit
+
+https://resumatic.rezi.ai/dashboard/resumes

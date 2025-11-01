@@ -1,5 +1,7 @@
 https://www.reddit.com/r/Indian_Academia/comments/jvy980/a_list_of_nptel_and_other_moocs_for_cse_people_to/?share_id=gVVbOGIeO7ayr2KW1K9BK&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1
 
+acio-intelligence bureau GATE
+
 Since I feel like procrastinating instead of studying, thought I'd make this list. This will be pretty useful for anybody who'll be studying computer science (especially so if you're preparing for GATE). Even if you are not and plan to go for a MS/job/whatever, having strong fundamentals always helps.
 
 Each subject will contain courses that I've personally gone through and some others which I know are good from trusted sources. You may choose to stick to one course, but I'd suggest that if you don't understand a particular topic from a particular lecturer, watch it from another lecturer or another textbook. A different perspective usually helps.

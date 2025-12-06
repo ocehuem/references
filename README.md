@@ -13,3 +13,5 @@ For best Resume
 https://docs.google.com/document/d/1NyBW7UxkVDvqnaNMWgudNe5ttG4Bkr8W/edit
 
 https://resumatic.rezi.ai/dashboard/resumes
+
+<img width="1468" height="910" alt="image" src="https://github.com/user-attachments/assets/bcb72292-a94c-44a2-adc6-289003e66c2d" />
